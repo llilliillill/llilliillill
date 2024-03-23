@@ -26,6 +26,9 @@
   - Vue / Vue Router / VueX
   - JavaScript / TypeScript
   - Bootstrap / Ant Design
+  - NodeJS / Express
+  - Webpack
+  - Git
 ***
 
 **Я использую технологии:**
