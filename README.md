@@ -23,7 +23,7 @@
 **Мой стек:**
   - HTML
   - CSS / SCSS
-  - Vue / Vue Router / VueX
+  - Vue / Vue Router / Vuex
   - JavaScript / TypeScript
   - Bootstrap / Ant Design
   - NodeJS / Express
