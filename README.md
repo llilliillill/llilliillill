@@ -26,7 +26,7 @@
  - <a href="https://llilliillill.github.io/sea-battle/">Морской бой</a>
  - <a href="https://llilliillill.github.io/slot/">Слоты</a>
  - <a href="https://llilliillill.github.io/Game/">Стрелялка 2d</a>
- - <a href="#">3d графика для стрелялки</a>
+ - <a href="https://llilliillill.github.io/Game-2.0/">3d графика для стрелялки</a>
 ***
 
 **Мой стек:**
