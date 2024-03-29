@@ -23,6 +23,7 @@
 
 **Github pages:**
  - <a href="https://llilliillill.github.io/sea-battle/">Морской бой</a>
+ - <a href="https://llilliillill.github.io/slot/">Слоты</a>
 ***
 
 **Мой стек:**
