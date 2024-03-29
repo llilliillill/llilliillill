@@ -19,6 +19,11 @@
 **О себе:**
 **Мое резюме на hh.ru**
 <https://samara.hh.ru/resume/2679f59dff0bf420810039ed1f454a487a744e>
+***
+
+**Github pages:**
+ - <a href="https://llilliillill.github.io/sea-battle/">Морской бой</a>
+***
 
 **Мой стек:**
   - HTML
