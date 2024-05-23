@@ -16,6 +16,7 @@
   <img src="https://github.com/llilliillill/office/blob/master/image-29-03-22-06-58.jpeg" width="300" height="400" />
 </div>
 
+***
 **Github pages:**
  - <a href="https://llilliillill.github.io/sea-battle/">Морской бой</a>
  - <a href="https://llilliillill.github.io/slot/">Слоты</a>
