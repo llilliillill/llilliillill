@@ -26,7 +26,7 @@
   - HTML
   - CSS / SCSS
   - Vuex / Pinia
-  - Vue / Nuxt / Vue Router
+  - Nuxt / Vue / Vue Router
   - JavaScript / TypeScript
   - NodeJS / Express
   - Webpack / Vite
