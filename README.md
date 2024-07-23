@@ -22,6 +22,12 @@
  - <a href="https://llilliillill.github.io/slot/">Слоты</a>
 ***
 
+**Мои Vue проекты:**
+ - <a href="https://llilliillill.github.io/nuxt-tasks/">Список задач</a>
+ - <a href="https://llilliillill.github.io/contact-management/">Управление контактами</a>
+ - <a href="#">Финансы</a>
+
+***
 **Мой стек:**
   - HTML
   - CSS / SCSS
