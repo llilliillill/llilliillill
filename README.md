@@ -17,6 +17,10 @@
 </div>
 
 ***
+**Мой интернет магазин:**
+ - <a href="https://chpunk.ru/">Чпуньк!</a>
+
+***
 **Мои игры:**
  - <a href="https://llilliillill.github.io/sea-battle/">Морской бой</a>
  - <a href="https://llilliillill.github.io/slot/">Слоты</a>
