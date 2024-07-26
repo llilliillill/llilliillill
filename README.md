@@ -29,7 +29,7 @@
 **Мои Vue проекты:**
  - <a href="https://llilliillill.github.io/nuxt-tasks/">Список задач</a>
  - <a href="https://llilliillill.github.io/contact-management/">Управление контактами</a>
- - <a href="https://llilliillill.github.io/vue-finance/">Финансы</a>
+ <!-- - <a href="https://llilliillill.github.io/vue-finance/">Финансы</a> -->
 
 ***
 **Мой стек:**
