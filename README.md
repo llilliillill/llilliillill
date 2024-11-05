@@ -42,6 +42,7 @@
   - JavaScript / TypeScript
   - NodeJS / Express
   - Webpack / Vite
+  - SQL / MySQL
   - Bootstrap
   - Git
 ***
