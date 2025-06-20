@@ -12,8 +12,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/llilliillill/office/blob/master/image-26-06-22-05-51-5.jpeg" width="300" height="400" />
-  <img src="https://github.com/llilliillill/office/blob/master/image-29-03-22-06-58.jpeg" width="300" height="400" />
+  <img width="220" height="300" src="https://github.com/llilliillill/office/blob/master/image-26-06-22-05-51-5.jpeg" width="300" height="400" />
+  <img width="220" height="300" src="https://github.com/llilliillill/office/blob/master/image-29-03-22-06-58.jpeg" width="300" height="400" />
 </div>
 
 ***
