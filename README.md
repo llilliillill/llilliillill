@@ -18,8 +18,8 @@
 
 ***
 **Мой интернет магазин:**
- - <a href="https://chpunk.ru/">Чпуньк!
-
+ - <a href="https://chpunk.ru/">Чпуньк!</a>
+ - <a href="http://chpunk.ru:3001/">Биржа</a>
 ***
 **Мои игры:**
  - <a href="https://llilliillill.github.io/sea-battle/">Морской бой</a>
