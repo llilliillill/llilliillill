@@ -22,19 +22,6 @@
  - <a href="http://chpunk.ru:3001/">Биржа</a>
 ***
 
-**Мои игры:**
- - <a href="https://llilliillill.github.io/sea-battle/">Морской бой</a>
- - <a href="https://llilliillill.github.io/slot/">Слоты</a>
- - <a href="https://llilliillill.github.io/simon/">Игра "Simon"</a>
-***
-
-**Мои Vue проекты:**
- - <a href="https://llilliillill.github.io/blog/">Блог</a>
- - <a href="https://llilliillill.github.io/nuxt-tasks/">Список задач</a>
- - <a href="https://llilliillill.github.io/contact-management/">Управление контактами</a>
- <!-- - <a href="https://llilliillill.github.io/vue-finance/">Финансы</a> -->
-***
-
 **Мой стек:**
   - HTML
   - CSS / SCSS
