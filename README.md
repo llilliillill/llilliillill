@@ -17,11 +17,6 @@
 </div>
 
 ***
-**Мой интернет магазин:**
- - <a href="https://chpunk.ru/">Чпуньк!</a>
- - <a href="http://chpunk.ru:3001/chart/apple">Биржа</a>
-***
-
 **Мой стек:**
   - HTML
   - CSS / SCSS
@@ -33,7 +28,7 @@
   - SQL / MySQL
   - Bootstrap
   - Git
-***
+
 
 **Я использую технологии:**
 
