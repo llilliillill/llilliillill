@@ -22,6 +22,7 @@
   - JavaScript/TypeScript
   - Redux Toolkit/RTK Query/Zustand/TanStack Query
   - Tailwind CSS/CSS Modules/HTML/CSS/SCSS
+  - Shadcn UI/Ant Design/Bootstrap
   - Vitest/React Testing Library
   - Webpack/Vite
   - Git
