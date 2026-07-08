@@ -22,7 +22,7 @@
   - JavaScript/TypeScript
   - Redux Toolkit/RTK Query/Zustand/TanStack Query
   - Tailwind CSS/CSS Modules/HTML/CSS/SCSS
-  - Shadcn UI/Ant Design/Bootstrap
+  - Shadcn UI/Ant Design/React Aria/Bootstrap
   - Vitest/React Testing Library
   - Webpack/Vite
   - Git
