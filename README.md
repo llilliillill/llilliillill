@@ -23,6 +23,8 @@
   - Redux Toolkit/RTK Query/Zustand/TanStack Query
   - Tailwind CSS/CSS Modules/HTML/CSS/SCSS
   - Shadcn UI/Ant Design/React Aria/Bootstrap
-  - Vitest/React Testing Library
+  - Vitest/React Testing Library/Jest
+  - Server Routes/Server Action
+  - MySQL/PostgreSQL/Drizzle
   - Webpack/Vite
   - Git
