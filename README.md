@@ -1,3 +1,7 @@
+<h1 align="center">
+  Привет 👋, я Истратов Алексей!
+</h1>
+
 <div id="badges" align="center">
   <a href="https://t.me/alexey1848">
     <img src="https://img.shields.io/badge/telegram-gray?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
